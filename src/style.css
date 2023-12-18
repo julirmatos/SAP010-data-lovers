@@ -217,7 +217,6 @@ option:hover{
     align-items: center;
     gap: 2em;
     color: var(--dark-blue);
-    width: fit-content;
     height: 65vh;
     overflow-y: scroll;
 }
